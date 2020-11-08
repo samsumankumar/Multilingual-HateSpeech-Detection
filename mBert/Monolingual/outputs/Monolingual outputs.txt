@@ -1,0 +1,1619 @@
+================================================================================================Arabic========================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 16
+Seed value: 2018
+/usr/local/lib/python3.6/dist-packages/pytorch_pretrained_bert/optimization.py:275: UserWarning: This overload of add_ is deprecated:
+	add_(Number alpha, Tensor other)
+Consider using one of the following signatures instead:
+	add_(Tensor other, *, Number alpha) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  next_m.mul_(beta1).add_(1 - beta1, grad)
+Train loss: 0.6285960078239441
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.17s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5147559642791748
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.17s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.4722505211830139
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.17s/it]Validation Accuracy: 0.7839673913043478
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 16
+Seed value: 2019
+Train loss: 0.805173397064209
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.17s/it]Validation Accuracy: 0.7934782608695652
+Train loss: 0.6188700795173645
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.17s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5597631335258484
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.17s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 16
+Seed value: 2020
+Train loss: 0.7461392879486084
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.17s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.6574167609214783
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.17s/it]Validation Accuracy: 0.779891304347826
+Train loss: 0.5073937773704529
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.17s/it]Validation Accuracy: 0.7921195652173914
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 16
+Seed value: 2021
+Train loss: 0.8087088465690613
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.18s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.6604413986206055
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.18s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5117818117141724
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.17s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 16
+Seed value: 2022
+Train loss: 0.611849308013916
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.17s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5352660417556763
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.16s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.38782766461372375
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.16s/it]Validation Accuracy: 0.779891304347826
+
+Macro F1 Score: 0.43868153174987884
+Accuracy score: 0.7815198618307426 
+
+====================================================================================================
+The Average F1-Score of the Language  Arabic  for the sample size  16 is: 0.4404161711495894
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 32
+Seed value: 2018
+Train loss: 0.6353268623352051
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.41s/it]Validation Accuracy: 0.779891304347826
+Train loss: 0.5921016484498978
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.41s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5422687530517578
+Epoch: 100%|██████████| 3/3 [00:07<00:00,  2.40s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 32
+Seed value: 2019
+Train loss: 0.6266699135303497
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.40s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5544256865978241
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.40s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5114638358354568
+Epoch: 100%|██████████| 3/3 [00:07<00:00,  2.40s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 32
+Seed value: 2020
+Train loss: 0.7269754409790039
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.41s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5403110086917877
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.40s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.45286594331264496
+Epoch: 100%|██████████| 3/3 [00:07<00:00,  2.40s/it]Validation Accuracy: 0.7921195652173914
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 32
+Seed value: 2021
+Train loss: 0.6829738616943359
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.40s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5652678906917572
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.40s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5043392181396484
+Epoch: 100%|██████████| 3/3 [00:07<00:00,  2.40s/it]Validation Accuracy: 0.7839673913043478
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 32
+Seed value: 2022
+Train loss: 0.6909950971603394
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.41s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5747660398483276
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.41s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.4988830238580704
+Epoch: 100%|██████████| 3/3 [00:07<00:00,  2.40s/it]Validation Accuracy: 0.7839673913043478
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+The Average F1-Score of the Language  Arabic  for the sample size  32 is: 0.44084983099951713
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 64
+Seed value: 2018
+Train loss: 0.6420915797352791
+Epoch:  33%|███▎      | 1/3 [00:02<00:05,  2.89s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5194012448191643
+Epoch:  67%|██████▋   | 2/3 [00:05<00:02,  2.88s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5137187466025352
+Epoch: 100%|██████████| 3/3 [00:08<00:00,  2.88s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 64
+Seed value: 2019
+Train loss: 0.5727879479527473
+Epoch:  33%|███▎      | 1/3 [00:02<00:05,  2.89s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5329687222838402
+Epoch:  67%|██████▋   | 2/3 [00:05<00:02,  2.88s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5193874835968018
+Epoch: 100%|██████████| 3/3 [00:08<00:00,  2.87s/it]Validation Accuracy: 0.7839673913043478
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 64
+Seed value: 2020
+Train loss: 0.6105596721172333
+Epoch:  33%|███▎      | 1/3 [00:02<00:05,  2.88s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5475372970104218
+Epoch:  67%|██████▋   | 2/3 [00:05<00:02,  2.87s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5497359037399292
+Epoch: 100%|██████████| 3/3 [00:08<00:00,  2.87s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 64
+Seed value: 2021
+Train loss: 0.584234893321991
+Epoch:  33%|███▎      | 1/3 [00:02<00:05,  2.88s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5536365807056427
+Epoch:  67%|██████▋   | 2/3 [00:05<00:02,  2.88s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.6050536558032036
+Epoch: 100%|██████████| 3/3 [00:08<00:00,  2.87s/it]Validation Accuracy: 0.7921195652173914
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 64
+Seed value: 2022
+Train loss: 0.5917189121246338
+Epoch:  33%|███▎      | 1/3 [00:02<00:05,  2.87s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.527634784579277
+Epoch:  67%|██████▋   | 2/3 [00:05<00:02,  2.87s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5172660946846008
+Epoch: 100%|██████████| 3/3 [00:08<00:00,  2.87s/it]Validation Accuracy: 0.7921195652173914
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+The Average F1-Score of the Language  Arabic  for the sample size  64 is: 0.44084983099951713
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 128
+Seed value: 2018
+Train loss: 0.5362297296524048
+Epoch:  33%|███▎      | 1/3 [00:03<00:07,  3.86s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.5087087899446487
+Epoch:  67%|██████▋   | 2/3 [00:07<00:03,  3.84s/it]Validation Accuracy: 0.7975543478260869
+Train loss: 0.42960395477712154
+Epoch: 100%|██████████| 3/3 [00:11<00:00,  3.82s/it]Validation Accuracy: 0.7894021739130435
+
+Macro F1 Score: 0.44512784258277366
+Accuracy score: 0.7892918825561313 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 128
+Seed value: 2019
+Train loss: 0.5650436393916607
+Epoch:  33%|███▎      | 1/3 [00:03<00:07,  3.84s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5538122244179249
+Epoch:  67%|██████▋   | 2/3 [00:07<00:03,  3.83s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.4897782802581787
+Epoch: 100%|██████████| 3/3 [00:11<00:00,  3.83s/it]Validation Accuracy: 0.7866847826086957
+
+Macro F1 Score: 0.6712938738239609
+Accuracy score: 0.7849740932642487 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 128
+Seed value: 2020
+Train loss: 0.5578319057822227
+Epoch:  33%|███▎      | 1/3 [00:03<00:07,  3.86s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.4551154151558876
+Epoch:  67%|██████▋   | 2/3 [00:07<00:03,  3.85s/it]Validation Accuracy: 0.8029891304347826
+Train loss: 0.49682338163256645
+Epoch: 100%|██████████| 3/3 [00:11<00:00,  3.83s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.4405797101449275
+Accuracy score: 0.7875647668393783 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 128
+Seed value: 2021
+Train loss: 0.5664477348327637
+Epoch:  33%|███▎      | 1/3 [00:03<00:07,  3.83s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5019127056002617
+Epoch:  67%|██████▋   | 2/3 [00:07<00:03,  3.83s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.523072924464941
+Epoch: 100%|██████████| 3/3 [00:11<00:00,  3.82s/it]Validation Accuracy: 0.7921195652173914
+
+Macro F1 Score: 0.452311738648948
+Accuracy score: 0.7875647668393783 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 128
+Seed value: 2022
+Train loss: 0.5619097538292408
+Epoch:  33%|███▎      | 1/3 [00:03<00:07,  3.83s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.4871729947626591
+Epoch:  67%|██████▋   | 2/3 [00:07<00:03,  3.83s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.4266143813729286
+Epoch: 100%|██████████| 3/3 [00:11<00:00,  3.82s/it]Validation Accuracy: 0.8152173913043478
+
+Macro F1 Score: 0.7121728934231129
+Accuracy score: 0.8471502590673575 
+
+====================================================================================================
+The Average F1-Score of the Language  Arabic  for the sample size  128 is: 0.5442972117247447
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 256
+Seed value: 2018
+Train loss: 0.5149552151560783
+Epoch:  33%|███▎      | 1/3 [00:05<00:11,  5.74s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5654332265257835
+Epoch:  67%|██████▋   | 2/3 [00:11<00:05,  5.73s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5268742572516203
+Epoch: 100%|██████████| 3/3 [00:17<00:00,  5.74s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 256
+Seed value: 2019
+Train loss: 0.5295326877385378
+Epoch:  33%|███▎      | 1/3 [00:05<00:11,  5.75s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5236830860376358
+Epoch:  67%|██████▋   | 2/3 [00:11<00:05,  5.74s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5614944137632847
+Epoch: 100%|██████████| 3/3 [00:17<00:00,  5.73s/it]Validation Accuracy: 0.7880434782608695
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 256
+Seed value: 2020
+Train loss: 0.5455648563802242
+Epoch:  33%|███▎      | 1/3 [00:05<00:11,  5.73s/it]Validation Accuracy: 0.7839673913043478
+Train loss: 0.43805902637541294
+Epoch:  67%|██████▋   | 2/3 [00:11<00:05,  5.72s/it]Validation Accuracy: 0.8342391304347826
+Train loss: 0.3989059552550316
+Epoch: 100%|██████████| 3/3 [00:17<00:00,  5.72s/it]Validation Accuracy: 0.842391304347826
+
+Macro F1 Score: 0.7497429018555779
+Accuracy score: 0.8497409326424871 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 256
+Seed value: 2021
+Train loss: 0.5601061191409826
+Epoch:  33%|███▎      | 1/3 [00:05<00:11,  5.74s/it]Validation Accuracy: 0.7921195652173914
+Train loss: 0.5226550363004208
+Epoch:  67%|██████▋   | 2/3 [00:11<00:05,  5.73s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.5313611254096031
+Epoch: 100%|██████████| 3/3 [00:17<00:00,  5.71s/it]Validation Accuracy: 0.7839673913043478
+
+Macro F1 Score: 0.44084983099951713
+Accuracy score: 0.7884283246977547 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 256
+Seed value: 2022
+Train loss: 0.5431886240839958
+Epoch:  33%|███▎      | 1/3 [00:05<00:11,  5.73s/it]Validation Accuracy: 0.7880434782608695
+Train loss: 0.4835471361875534
+Epoch:  67%|██████▋   | 2/3 [00:11<00:05,  5.72s/it]Validation Accuracy: 0.7934782608695652
+Train loss: 0.41712236404418945
+Epoch: 100%|██████████| 3/3 [00:17<00:00,  5.72s/it]Validation Accuracy: 0.8057065217391305
+
+Macro F1 Score: 0.7149470756660348
+Accuracy score: 0.8031088082901554 
+
+====================================================================================================
+The Average F1-Score of the Language  Arabic  for the sample size  256 is: 0.5574478941040328
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 5064
+Seed value: 2018
+Train loss: 0.3807605117418413
+Epoch:  33%|███▎      | 1/3 [01:16<02:33, 76.68s/it]Validation Accuracy: 0.8913043478260869
+Train loss: 0.2601510050356952
+Epoch:  67%|██████▋   | 2/3 [02:33<01:16, 76.67s/it]Validation Accuracy: 0.8831521739130435
+Train loss: 0.19616698427860293
+Epoch: 100%|██████████| 3/3 [03:50<00:00, 76.71s/it]Validation Accuracy: 0.8899456521739131
+
+Macro F1 Score: 0.8659208920794107
+Accuracy score: 0.9214162348877375 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 5064
+Seed value: 2019
+Train loss: 0.47225471240488887
+Epoch:  33%|███▎      | 1/3 [01:17<02:34, 77.00s/it]Validation Accuracy: 0.8777173913043478
+Train loss: 0.35469145678007263
+Epoch:  67%|██████▋   | 2/3 [02:33<01:16, 76.97s/it]Validation Accuracy: 0.8804347826086957
+Train loss: 0.30939961810029265
+Epoch: 100%|██████████| 3/3 [03:50<00:00, 76.96s/it]Validation Accuracy: 0.8885869565217391
+
+Macro F1 Score: 0.84337172015326
+Accuracy score: 0.9024179620034543 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 5064
+Seed value: 2020
+Train loss: 0.47405468369319986
+Epoch:  33%|███▎      | 1/3 [01:17<02:34, 77.13s/it]Validation Accuracy: 0.8355978260869565
+Train loss: 0.45086221796481013
+Epoch:  67%|██████▋   | 2/3 [02:34<01:17, 77.06s/it]Validation Accuracy: 0.8274456521739131
+Train loss: 0.4538565481122736
+Epoch: 100%|██████████| 3/3 [03:51<00:00, 77.01s/it]Validation Accuracy: 0.8355978260869565
+
+Macro F1 Score: 0.7089599760390146
+Accuracy score: 0.8333333333333334 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 5064
+Seed value: 2021
+Train loss: 0.4275432683362946
+Epoch:  33%|███▎      | 1/3 [01:17<02:34, 77.24s/it]Validation Accuracy: 0.8682065217391305
+Train loss: 0.28323220311185165
+Epoch:  67%|██████▋   | 2/3 [02:34<01:17, 77.19s/it]Validation Accuracy: 0.8940217391304348
+Train loss: 0.22640631730412647
+Epoch: 100%|██████████| 3/3 [03:51<00:00, 77.13s/it]Validation Accuracy: 0.8980978260869565
+
+Macro F1 Score: 0.923288397204465
+Accuracy score: 0.9516407599309153 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: Arabic
+Sample Size: 5064
+Seed value: 2022
+Train loss: 0.42129089382450663
+Epoch:  33%|███▎      | 1/3 [01:16<02:33, 76.87s/it]Validation Accuracy: 0.8654891304347826
+Train loss: 0.2921814020335298
+Epoch:  67%|██████▋   | 2/3 [02:34<01:16, 76.96s/it]Validation Accuracy: 0.8790760869565217
+Train loss: 0.21534004936447185
+Epoch: 100%|██████████| 3/3 [03:51<00:00, 77.11s/it]Validation Accuracy: 0.8899456521739131
+
+Macro F1 Score: 0.921841252699784
+Accuracy score: 0.9499136442141624 
+
+====================================================================================================
+The Average F1-Score of the Language  Arabic  for the sample size  5064 is: 0.852676447635187
+========================================================================================================================================================================================================
+The Average F1-Score of the Language Arabic for the sample size 16 is : 0.4404161711495894 
+
+The Average F1-Score of the Language Arabic for the sample size 32 is : 0.44084983099951713 
+
+The Average F1-Score of the Language Arabic for the sample size 64 is : 0.44084983099951713 
+
+The Average F1-Score of the Language Arabic for the sample size 128 is : 0.5442972117247447 
+
+The Average F1-Score of the Language Arabic for the sample size 256 is : 0.5574478941040328 
+
+The Average F1-Score of the Language Arabic for the sample size 5064 is : 0.852676447635187 
+=============================================================================================French===========================================================================================================
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 16
+Seed value: 2018
+Train loss: 0.7142896056175232
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.48it/s]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6549753546714783
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.50it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.5957129597663879
+Epoch: 100%|██████████| 3/3 [00:01<00:00,  1.51it/s]Validation Accuracy: 0.6729166666666667
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 16
+Seed value: 2019
+Train loss: 0.7049331068992615
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.53it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6364553570747375
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.54it/s]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6657148599624634
+Epoch: 100%|██████████| 3/3 [00:01<00:00,  1.54it/s]Validation Accuracy: 0.6680555555555555
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 16
+Seed value: 2020
+Train loss: 0.6984119415283203
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.54it/s]Validation Accuracy: 0.6875
+Train loss: 0.6571838855743408
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.54it/s]Validation Accuracy: 0.6729166666666667
+Train loss: 0.595601499080658
+Epoch: 100%|██████████| 3/3 [00:01<00:00,  1.54it/s]Validation Accuracy: 0.6631944444444444
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 16
+Seed value: 2021
+Train loss: 0.7203541398048401
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.49it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6451766490936279
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.50it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.5743436217308044
+Epoch: 100%|██████████| 3/3 [00:01<00:00,  1.52it/s]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 16
+Seed value: 2022
+Train loss: 0.6835259199142456
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.53it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6288159489631653
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.53it/s]Validation Accuracy: 0.6680555555555555
+Train loss: 0.576382040977478
+Epoch: 100%|██████████| 3/3 [00:01<00:00,  1.53it/s]Validation Accuracy: 0.6631944444444444
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+The Average F1-Score of the Language  French  for the sample size  16 is: 0.4019607843137255
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 32
+Seed value: 2018
+Train loss: 0.6688138842582703
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.12it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.606219619512558
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.12it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.5355419516563416
+Epoch: 100%|██████████| 3/3 [00:02<00:00,  1.13it/s]Validation Accuracy: 0.6729166666666667
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 32
+Seed value: 2019
+Train loss: 0.6715655028820038
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.10it/s]Validation Accuracy: 0.6875
+Train loss: 0.6776262819766998
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.11it/s]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6306291222572327
+Epoch: 100%|██████████| 3/3 [00:02<00:00,  1.11it/s]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 32
+Seed value: 2020
+Train loss: 0.7045533359050751
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.12it/s]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6735416352748871
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.12it/s]Validation Accuracy: 0.6631944444444444
+Train loss: 0.5860183238983154
+Epoch: 100%|██████████| 3/3 [00:02<00:00,  1.12it/s]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 32
+Seed value: 2021
+Train loss: 0.6769523918628693
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.13it/s]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6013891100883484
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.13it/s]Validation Accuracy: 0.6729166666666667
+Train loss: 0.5441319942474365
+Epoch: 100%|██████████| 3/3 [00:02<00:00,  1.12it/s]Validation Accuracy: 0.6680555555555555
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 32
+Seed value: 2022
+Train loss: 0.7622263729572296
+Epoch:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6264231503009796
+Epoch:  67%|██████▋   | 2/3 [00:01<00:00,  1.11it/s]Validation Accuracy: 0.6680555555555555
+Train loss: 0.5352326035499573
+Epoch: 100%|██████████| 3/3 [00:02<00:00,  1.12it/s]Validation Accuracy: 0.6631944444444444
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+The Average F1-Score of the Language  French  for the sample size  32 is: 0.4019607843137255
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 64
+Seed value: 2018
+Train loss: 0.6489704847335815
+Epoch:  33%|███▎      | 1/3 [00:01<00:02,  1.37s/it]Validation Accuracy: 0.6631944444444444
+Train loss: 0.6532268598675728
+Epoch:  67%|██████▋   | 2/3 [00:02<00:01,  1.36s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6288694739341736
+Epoch: 100%|██████████| 3/3 [00:04<00:00,  1.36s/it]Validation Accuracy: 0.6729166666666667
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 64
+Seed value: 2019
+Train loss: 0.6748755872249603
+Epoch:  33%|███▎      | 1/3 [00:01<00:02,  1.36s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.62314572930336
+Epoch:  67%|██████▋   | 2/3 [00:02<00:01,  1.36s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6254115998744965
+Epoch: 100%|██████████| 3/3 [00:04<00:00,  1.36s/it]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 64
+Seed value: 2020
+Train loss: 0.6513359248638153
+Epoch:  33%|███▎      | 1/3 [00:01<00:02,  1.40s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6510126143693924
+Epoch:  67%|██████▋   | 2/3 [00:02<00:01,  1.39s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6253663003444672
+Epoch: 100%|██████████| 3/3 [00:04<00:00,  1.37s/it]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 64
+Seed value: 2021
+Train loss: 0.6683451682329178
+Epoch:  33%|███▎      | 1/3 [00:01<00:02,  1.36s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6408082991838455
+Epoch:  67%|██████▋   | 2/3 [00:02<00:01,  1.36s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.5378864482045174
+Epoch: 100%|██████████| 3/3 [00:04<00:00,  1.36s/it]Validation Accuracy: 0.6506944444444445
+
+Macro F1 Score: 0.4391796322489392
+Accuracy score: 0.680327868852459 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 64
+Seed value: 2022
+Train loss: 0.6418927609920502
+Epoch:  33%|███▎      | 1/3 [00:01<00:02,  1.37s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6280799806118011
+Epoch:  67%|██████▋   | 2/3 [00:02<00:01,  1.36s/it]Validation Accuracy: 0.6819444444444445
+Train loss: 0.46665120869874954
+Epoch: 100%|██████████| 3/3 [00:04<00:00,  1.36s/it]Validation Accuracy: 0.5541666666666667
+
+Macro F1 Score: 0.5959368331199317
+Accuracy score: 0.6024590163934426 
+
+====================================================================================================
+The Average F1-Score of the Language  French  for the sample size  64 is: 0.44819976366200953
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 128
+Seed value: 2018
+Train loss: 0.65238968282938
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.31s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6337575688958168
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.31s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6280350871384144
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.31s/it]Validation Accuracy: 0.6729166666666667
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 128
+Seed value: 2019
+Train loss: 0.6491170227527618
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.30s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6507724896073341
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.30s/it]Validation Accuracy: 0.6631944444444444
+Train loss: 0.6340348869562149
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.30s/it]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 128
+Seed value: 2020
+Train loss: 0.6820387914776802
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.33s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6307911276817322
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.33s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6436115093529224
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.32s/it]Validation Accuracy: 0.6729166666666667
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 128
+Seed value: 2021
+Train loss: 0.6609269604086876
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.31s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6502581536769867
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.31s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6352989301085472
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.31s/it]Validation Accuracy: 0.6631944444444444
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 128
+Seed value: 2022
+Train loss: 0.6661690846085548
+Epoch:  33%|███▎      | 1/3 [00:02<00:04,  2.30s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.653712909668684
+Epoch:  67%|██████▋   | 2/3 [00:04<00:02,  2.30s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6119441613554955
+Epoch: 100%|██████████| 3/3 [00:06<00:00,  2.30s/it]Validation Accuracy: 0.6826388888888889
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+The Average F1-Score of the Language  French  for the sample size  128 is: 0.4019607843137255
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 256
+Seed value: 2018
+Train loss: 0.6596672479063272
+Epoch:  33%|███▎      | 1/3 [00:04<00:08,  4.22s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6491341702640057
+Epoch:  67%|██████▋   | 2/3 [00:08<00:04,  4.21s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6628831457346678
+Epoch: 100%|██████████| 3/3 [00:12<00:00,  4.20s/it]Validation Accuracy: 0.6826388888888889
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 256
+Seed value: 2019
+Train loss: 0.6479477919638157
+Epoch:  33%|███▎      | 1/3 [00:04<00:08,  4.19s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.6518803387880325
+Epoch:  67%|██████▋   | 2/3 [00:08<00:04,  4.19s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.6390225514769554
+Epoch: 100%|██████████| 3/3 [00:12<00:00,  4.19s/it]Validation Accuracy: 0.6826388888888889
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 256
+Seed value: 2020
+Train loss: 0.6542846225202084
+Epoch:  33%|███▎      | 1/3 [00:04<00:08,  4.22s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.6369277238845825
+Epoch:  67%|██████▋   | 2/3 [00:08<00:04,  4.21s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6259830463677645
+Epoch: 100%|██████████| 3/3 [00:12<00:00,  4.22s/it]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 256
+Seed value: 2021
+Train loss: 0.6535199545323849
+Epoch:  33%|███▎      | 1/3 [00:04<00:08,  4.20s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6606243625283241
+Epoch:  67%|██████▋   | 2/3 [00:08<00:04,  4.19s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6693457141518593
+Epoch: 100%|██████████| 3/3 [00:12<00:00,  4.20s/it]Validation Accuracy: 0.6826388888888889
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 256
+Seed value: 2022
+Train loss: 0.6771242804825306
+Epoch:  33%|███▎      | 1/3 [00:04<00:08,  4.21s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6336890235543251
+Epoch:  67%|██████▋   | 2/3 [00:08<00:04,  4.20s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6499033980071545
+Epoch: 100%|██████████| 3/3 [00:12<00:00,  4.21s/it]Validation Accuracy: 0.6729166666666667
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+The Average F1-Score of the Language  French  for the sample size  256 is: 0.4019607843137255
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 1067
+Seed value: 2018
+Train loss: 0.6314995351122387
+Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.20s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6115920014345824
+Epoch:  67%|██████▋   | 2/3 [00:32<00:16, 16.19s/it]Validation Accuracy: 0.6416666666666667
+Train loss: 0.5709722771573422
+Epoch: 100%|██████████| 3/3 [00:48<00:00, 16.19s/it]Validation Accuracy: 0.6770833333333333
+
+Macro F1 Score: 0.6000504350018914
+Accuracy score: 0.7336065573770492 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 1067
+Seed value: 2019
+Train loss: 0.6434728467642371
+Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.16s/it]Validation Accuracy: 0.6631944444444444
+Train loss: 0.6363175524704492
+Epoch:  67%|██████▋   | 2/3 [00:32<00:16, 16.17s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6373279508370072
+Epoch: 100%|██████████| 3/3 [00:48<00:00, 16.18s/it]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 1067
+Seed value: 2020
+Train loss: 0.642752572671691
+Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.25s/it]Validation Accuracy: 0.6729166666666667
+Train loss: 0.6444720038727149
+Epoch:  67%|██████▋   | 2/3 [00:32<00:16, 16.22s/it]Validation Accuracy: 0.6777777777777778
+Train loss: 0.6391191295723417
+Epoch: 100%|██████████| 3/3 [00:48<00:00, 16.20s/it]Validation Accuracy: 0.6777777777777778
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 1067
+Seed value: 2021
+Train loss: 0.6484330069662919
+Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.27s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.6467400971633285
+Epoch:  67%|██████▋   | 2/3 [00:32<00:16, 16.24s/it]Validation Accuracy: 0.6680555555555555
+Train loss: 0.6357286229952058
+Epoch: 100%|██████████| 3/3 [00:48<00:00, 16.23s/it]Validation Accuracy: 0.6631944444444444
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: French
+Sample Size: 1067
+Seed value: 2022
+Train loss: 0.649295850921033
+Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.21s/it]Validation Accuracy: 0.6826388888888889
+Train loss: 0.648297337008946
+Epoch:  67%|██████▋   | 2/3 [00:32<00:16, 16.19s/it]Validation Accuracy: 0.6583333333333333
+Train loss: 0.6351088134210501
+Epoch: 100%|██████████| 3/3 [00:48<00:00, 16.18s/it]Validation Accuracy: 0.6680555555555555
+
+Macro F1 Score: 0.40196078431372545
+Accuracy score: 0.6721311475409836 
+
+====================================================================================================
+The Average F1-Score of the Language  French  for the sample size  1067 is: 0.4415787144513586
+========================================================================================================================================================================================================
+The Average F1-Score of the Language French for the sample size 16 is : 0.4201313506375065 
+
+The Average F1-Score of the Language French for the sample size 32 is : 0.4144100855098297 
+
+The Average F1-Score of the Language French for the sample size 64 is : 0.44819976366200953 
+
+The Average F1-Score of the Language French for the sample size 128 is : 0.4065285520148653 
+
+The Average F1-Score of the Language French for the sample size 256 is : 0.4348942321008883 
+
+The Average F1-Score of the Language French for the sample size 1067 is : 0.5285378393334661 
+
+=======================================================================================================English=================================================================================================
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 16
+Seed value: 2018
+Train loss: 0.7012133598327637
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.10s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.6003368496894836
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.12s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.4720257520675659
+Epoch: 100%|██████████| 3/3 [01:45<00:00, 35.15s/it]Validation Accuracy: 0.8070043578993822
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 16
+Seed value: 2019
+Train loss: 0.6294952630996704
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.16s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.5633472204208374
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.18s/it]Validation Accuracy: 0.8069009267431597
+Train loss: 0.5078692436218262
+Epoch: 100%|██████████| 3/3 [01:45<00:00, 35.19s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 16
+Seed value: 2020
+Train loss: 0.7258316874504089
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.15s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.6431592702865601
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.17s/it]Validation Accuracy: 0.8069009267431597
+Train loss: 0.5583165287971497
+Epoch: 100%|██████████| 3/3 [01:45<00:00, 35.18s/it]Validation Accuracy: 0.8070043578993822
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 16
+Seed value: 2021
+Train loss: 0.6851200461387634
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.15s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.5778971314430237
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.16s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.49538373947143555
+Epoch: 100%|██████████| 3/3 [01:45<00:00, 35.18s/it]Validation Accuracy: 0.8069009267431597
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 16
+Seed value: 2022
+Train loss: 0.6158103942871094
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.16s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.5535745024681091
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.18s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.5013738870620728
+Epoch: 100%|██████████| 3/3 [01:45<00:00, 35.19s/it]Validation Accuracy: 0.8069354037952339
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+The Average F1-Score of the Language  English  for the sample size  16 is: 0.4465907301453992
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 32
+Seed value: 2018
+Train loss: 0.5629978328943253
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.37s/it]Validation Accuracy: 0.806811286407767
+Train loss: 0.41269566118717194
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.39s/it]Validation Accuracy: 0.8062872352162401
+Train loss: 0.45645563304424286
+Epoch: 100%|██████████| 3/3 [01:46<00:00, 35.42s/it]Validation Accuracy: 0.8046254413062666
+
+Macro F1 Score: 0.44982134536948326
+Accuracy score: 0.8057953144266338 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 32
+Seed value: 2019
+Train loss: 0.6188765466213226
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.38s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.5668856203556061
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.39s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.45990003645420074
+Epoch: 100%|██████████| 3/3 [01:46<00:00, 35.41s/it]Validation Accuracy: 0.8069354037952339
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 32
+Seed value: 2020
+Train loss: 0.7718203663825989
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.44s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.5359033197164536
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.44s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.48729319870471954
+Epoch: 100%|██████████| 3/3 [01:46<00:00, 35.44s/it]Validation Accuracy: 0.8070388349514563
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 32
+Seed value: 2021
+Train loss: 0.564655214548111
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.48s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.4464970678091049
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.48s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.4259660542011261
+Epoch: 100%|██████████| 3/3 [01:46<00:00, 35.49s/it]Validation Accuracy: 0.8069009267431597
+
+Macro F1 Score: 0.4468335060769663
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 32
+Seed value: 2022
+Train loss: 0.6386640071868896
+Epoch:  33%|███▎      | 1/3 [00:35<01:10, 35.43s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.549001008272171
+Epoch:  67%|██████▋   | 2/3 [01:10<00:35, 35.44s/it]Validation Accuracy: 0.8068319726390115
+Train loss: 0.44959187507629395
+Epoch: 100%|██████████| 3/3 [01:46<00:00, 35.44s/it]Validation Accuracy: 0.8070388349514563
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+The Average F1-Score of the Language  English  for the sample size  32 is: 0.4472854083765294
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 64
+Seed value: 2018
+Train loss: 0.5919364392757416
+Epoch:  33%|███▎      | 1/3 [00:35<01:11, 35.90s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.49837175011634827
+Epoch:  67%|██████▋   | 2/3 [01:11<00:35, 35.89s/it]Validation Accuracy: 0.8068319726390115
+Train loss: 0.3761015608906746
+Epoch: 100%|██████████| 3/3 [01:47<00:00, 35.90s/it]Validation Accuracy: 0.7514618270079436
+
+Macro F1 Score: 0.6019333562659456
+Accuracy score: 0.7507350848904486 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 64
+Seed value: 2019
+Train loss: 0.5248944461345673
+Epoch:  33%|███▎      | 1/3 [00:35<01:11, 35.84s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.4691205471754074
+Epoch:  67%|██████▋   | 2/3 [01:11<00:35, 35.81s/it]Validation Accuracy: 0.28078800750220656
+Train loss: 0.49470213800668716
+Epoch: 100%|██████████| 3/3 [01:47<00:00, 35.79s/it]Validation Accuracy: 0.8070043578993822
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 64
+Seed value: 2020
+Train loss: 0.5320430919528008
+Epoch:  33%|███▎      | 1/3 [00:35<01:11, 35.88s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.4908973053097725
+Epoch:  67%|██████▋   | 2/3 [01:11<00:35, 35.90s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.4784261956810951
+Epoch: 100%|██████████| 3/3 [01:47<00:00, 35.93s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 64
+Seed value: 2021
+Train loss: 0.49988001585006714
+Epoch:  33%|███▎      | 1/3 [00:35<01:11, 35.91s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.5036658197641373
+Epoch:  67%|██████▋   | 2/3 [01:11<00:35, 35.91s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.49153272807598114
+Epoch: 100%|██████████| 3/3 [01:47<00:00, 35.91s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 64
+Seed value: 2022
+Train loss: 0.554820604622364
+Epoch:  33%|███▎      | 1/3 [00:35<01:11, 35.88s/it]Validation Accuracy: 0.8069009267431597
+Train loss: 0.4569332152605057
+Epoch:  67%|██████▋   | 2/3 [01:11<00:35, 35.89s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.48466112464666367
+Epoch: 100%|██████████| 3/3 [01:47<00:00, 35.91s/it]Validation Accuracy: 0.8070043578993822
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+The Average F1-Score of the Language  English  for the sample size  64 is: 0.47765925536950854
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 128
+Seed value: 2018
+Train loss: 0.5251889191567898
+Epoch:  33%|███▎      | 1/3 [00:36<01:13, 36.82s/it]Validation Accuracy: 0.8066733781994704
+Train loss: 0.5091251321136951
+Epoch:  67%|██████▋   | 2/3 [01:13<00:36, 36.84s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.49760130420327187
+Epoch: 100%|██████████| 3/3 [01:50<00:00, 36.85s/it]Validation Accuracy: 0.8069354037952339
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 128
+Seed value: 2019
+Train loss: 0.546096283942461
+Epoch:  33%|███▎      | 1/3 [00:36<01:13, 36.89s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.5061495248228312
+Epoch:  67%|██████▋   | 2/3 [01:13<00:36, 36.89s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.5227790139615536
+Epoch: 100%|██████████| 3/3 [01:50<00:00, 36.88s/it]Validation Accuracy: 0.8070388349514563
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 128
+Seed value: 2020
+Train loss: 0.606844250112772
+Epoch:  33%|███▎      | 1/3 [00:36<01:13, 36.81s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.49054910242557526
+Epoch:  67%|██████▋   | 2/3 [01:13<00:36, 36.81s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.49353083968162537
+Epoch: 100%|██████████| 3/3 [01:50<00:00, 36.85s/it]Validation Accuracy: 0.8069009267431597
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 128
+Seed value: 2021
+Train loss: 0.5471498891711235
+Epoch:  33%|███▎      | 1/3 [00:36<01:13, 36.93s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.46142368391156197
+Epoch:  67%|██████▋   | 2/3 [01:13<00:36, 36.94s/it]Validation Accuracy: 0.719067188879082
+Train loss: 0.33735150285065174
+Epoch: 100%|██████████| 3/3 [01:50<00:00, 36.95s/it]Validation Accuracy: 0.8015914607237422
+
+Macro F1 Score: 0.4990581769085374
+Accuracy score: 0.802902399696481 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 128
+Seed value: 2022
+Train loss: 0.5545864291489124
+Epoch:  33%|███▎      | 1/3 [00:36<01:13, 36.90s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.4880603291094303
+Epoch:  67%|██████▋   | 2/3 [01:13<00:36, 36.91s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.41585424169898033
+Epoch: 100%|██████████| 3/3 [01:50<00:00, 36.92s/it]Validation Accuracy: 0.7631288614298324
+
+Macro F1 Score: 0.5885148423118556
+Accuracy score: 0.7589870055961301 
+
+====================================================================================================
+The Average F1-Score of the Language  English  for the sample size  128 is: 0.4854690419313181
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 256
+Seed value: 2018
+Train loss: 0.5465956330299377
+Epoch:  33%|███▎      | 1/3 [00:38<01:17, 38.81s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.49011561647057533
+Epoch:  67%|██████▋   | 2/3 [01:17<00:38, 38.82s/it]Validation Accuracy: 0.8070043578993822
+Train loss: 0.49254709761589766
+Epoch: 100%|██████████| 3/3 [01:56<00:00, 38.84s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 256
+Seed value: 2019
+Train loss: 0.594136593863368
+Epoch:  33%|███▎      | 1/3 [00:38<01:17, 38.62s/it]Validation Accuracy: 0.8068664496910856
+Train loss: 0.518953531049192
+Epoch:  67%|██████▋   | 2/3 [01:17<00:38, 38.62s/it]Validation Accuracy: 0.8068664496910856
+Train loss: 0.5037310030311346
+Epoch: 100%|██████████| 3/3 [01:55<00:00, 38.62s/it]Validation Accuracy: 0.8069354037952339
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 256
+Seed value: 2020
+Train loss: 0.5425154725089669
+Epoch:  33%|███▎      | 1/3 [00:38<01:17, 38.68s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.4992446955293417
+Epoch:  67%|██████▋   | 2/3 [01:17<00:38, 38.67s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.4972736928611994
+Epoch: 100%|██████████| 3/3 [01:55<00:00, 38.63s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 256
+Seed value: 2021
+Train loss: 0.517131520435214
+Epoch:  33%|███▎      | 1/3 [00:38<01:17, 38.77s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.49811363220214844
+Epoch:  67%|██████▋   | 2/3 [01:17<00:38, 38.78s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.49926822632551193
+Epoch: 100%|██████████| 3/3 [01:56<00:00, 38.80s/it]Validation Accuracy: 0.8069009267431597
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 256
+Seed value: 2022
+Train loss: 0.5336637105792761
+Epoch:  33%|███▎      | 1/3 [00:38<01:17, 38.83s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.5113212177529931
+Epoch:  67%|██████▋   | 2/3 [01:17<00:38, 38.82s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.4976142346858978
+Epoch: 100%|██████████| 3/3 [01:56<00:00, 38.81s/it]Validation Accuracy: 0.8069354037952339
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+The Average F1-Score of the Language  English  for the sample size  256 is: 0.4465907301453992
+========================================================================================================================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 92247
+Seed value: 2018
+Train loss: 0.4621616079757249
+Epoch:  33%|███▎      | 1/3 [23:17<46:34, 1397.35s/it]Validation Accuracy: 0.827442354368932
+Train loss: 0.44153438023046987
+Epoch:  67%|██████▋   | 2/3 [46:33<23:17, 1397.09s/it]Validation Accuracy: 0.8202021734333628
+Train loss: 0.4460624627771578
+Epoch: 100%|██████████| 3/3 [1:09:48<00:00, 1396.24s/it]Validation Accuracy: 0.8069009267431597
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 92247
+Seed value: 2019
+Train loss: 0.43749778108762405
+Epoch:  33%|███▎      | 1/3 [23:11<46:22, 1391.48s/it]Validation Accuracy: 0.8191402802294793
+Train loss: 0.4834461185488071
+Epoch:  67%|██████▋   | 2/3 [46:20<23:10, 1390.81s/it]Validation Accuracy: 0.8258495145631068
+Train loss: 0.4719561161515389
+Epoch: 100%|██████████| 3/3 [1:09:30<00:00, 1390.08s/it]Validation Accuracy: 0.8363167475728155
+
+Macro F1 Score: 0.6762370852033299
+Accuracy score: 0.8356729583609979 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 92247
+Seed value: 2020
+Train loss: 0.3441592636710389
+Epoch:  33%|███▎      | 1/3 [23:11<46:23, 1391.97s/it]Validation Accuracy: 0.8605954876434246
+Train loss: 0.29897861119955416
+Epoch:  67%|██████▋   | 2/3 [46:19<23:10, 1390.49s/it]Validation Accuracy: 0.8639673433362753
+Train loss: 0.28014618978343653
+Epoch: 100%|██████████| 3/3 [1:09:27<00:00, 1389.33s/it]Validation Accuracy: 0.8654843336275375
+
+Macro F1 Score: 0.7986555259115466
+Accuracy score: 0.8903537892440482 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 92247
+Seed value: 2021
+Train loss: 0.47905288315970906
+Epoch:  33%|███▎      | 1/3 [23:00<46:01, 1380.65s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.490492340803994
+Epoch:  67%|██████▋   | 2/3 [46:00<23:00, 1380.47s/it]Validation Accuracy: 0.8070388349514563
+Train loss: 0.4901451638257218
+Epoch: 100%|██████████| 3/3 [1:08:58<00:00, 1379.43s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+t_total value of -1 results in schedule not being applied
+Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Model Summary:
+Language: English
+Sample Size: 92247
+Seed value: 2022
+Train loss: 0.49252669572018726
+Epoch:  33%|███▎      | 1/3 [23:03<46:06, 1383.13s/it]Validation Accuracy: 0.8069354037952339
+Train loss: 0.49225411624326254
+Epoch:  67%|██████▋   | 2/3 [46:00<23:01, 1381.48s/it]Validation Accuracy: 0.8069009267431597
+Train loss: 0.49193255676708
+Epoch: 100%|██████████| 3/3 [1:08:51<00:00, 1377.17s/it]Validation Accuracy: 0.8069698808473081
+
+Macro F1 Score: 0.4465907301453992
+Accuracy score: 0.80698093521768 
+
+====================================================================================================
+The Average F1-Score of the Language  English  for the sample size  92247 is: 0.5629329603102148
+========================================================================================================================================================================================================
+
+The Average F1-Score of the Language English for the sample size 16 is : 0.4465907301453992 
+
+The Average F1-Score of the Language English for the sample size 32 is : 0.4472854083765294 
+
+The Average F1-Score of the Language English for the sample size 64 is : 0.47765925536950854 
+
+The Average F1-Score of the Language English for the sample size 128 is : 0.4854690419313181 
+
+The Average F1-Score of the Language English for the sample size 256 is : 0.4465907301453992 
+
+The Average F1-Score of the Language English for the sample size 92247 is : 0.5629329603102148 
+
+
