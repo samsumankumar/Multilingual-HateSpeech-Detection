@@ -443,7 +443,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: Arabic
-Sample Size: 5064
+Sample Size: 4051
 Seed value: 2018
 Train loss: 0.3807605117418413
 Epoch:  33%|███▎      | 1/3 [01:16<02:33, 76.68s/it]Validation Accuracy: 0.8913043478260869
@@ -460,7 +460,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: Arabic
-Sample Size: 5064
+Sample Size: 4051
 Seed value: 2019
 Train loss: 0.47225471240488887
 Epoch:  33%|███▎      | 1/3 [01:17<02:34, 77.00s/it]Validation Accuracy: 0.8777173913043478
@@ -477,7 +477,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: Arabic
-Sample Size: 5064
+Sample Size: 4051
 Seed value: 2020
 Train loss: 0.47405468369319986
 Epoch:  33%|███▎      | 1/3 [01:17<02:34, 77.13s/it]Validation Accuracy: 0.8355978260869565
@@ -494,7 +494,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: Arabic
-Sample Size: 5064
+Sample Size: 4051
 Seed value: 2021
 Train loss: 0.4275432683362946
 Epoch:  33%|███▎      | 1/3 [01:17<02:34, 77.24s/it]Validation Accuracy: 0.8682065217391305
@@ -511,7 +511,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: Arabic
-Sample Size: 5064
+Sample Size: 4051
 Seed value: 2022
 Train loss: 0.42129089382450663
 Epoch:  33%|███▎      | 1/3 [01:16<02:33, 76.87s/it]Validation Accuracy: 0.8654891304347826
@@ -524,7 +524,7 @@ Macro F1 Score: 0.921841252699784
 Accuracy score: 0.9499136442141624 
 
 ====================================================================================================
-The Average F1-Score of the Language  Arabic  for the sample size  5064 is: 0.852676447635187
+The Average F1-Score of the Language  Arabic  for the sample size  4051 is: 0.852676447635187
 ========================================================================================================================================================================================================
 The Average F1-Score of the Language Arabic for the sample size 16 is : 0.4404161711495894 
 
@@ -536,7 +536,7 @@ The Average F1-Score of the Language Arabic for the sample size 128 is : 0.54429
 
 The Average F1-Score of the Language Arabic for the sample size 256 is : 0.5574478941040328 
 
-The Average F1-Score of the Language Arabic for the sample size 5064 is : 0.852676447635187 
+The Average F1-Score of the Language Arabic for the sample size 4051 is : 0.852676447635187 
 =============================================================================================French===========================================================================================================
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
@@ -622,7 +622,7 @@ Macro F1 Score: 0.40196078431372545
 Accuracy score: 0.6721311475409836 
 
 ====================================================================================================
-The Average F1-Score of the Language  French  for the sample size  16 is: 0.4019607843137255
+The Average F1-Score of the Language  French  for the sample size  16 is: 0.4201313506375065 
 ========================================================================================================================================================================================================
 t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
@@ -709,7 +709,7 @@ Macro F1 Score: 0.40196078431372545
 Accuracy score: 0.6721311475409836 
 
 ====================================================================================================
-The Average F1-Score of the Language  French  for the sample size  32 is: 0.4019607843137255
+The Average F1-Score of the Language  French  for the sample size  32 is: 0.4144100855098297  
 ========================================================================================================================================================================================================
 t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
@@ -883,7 +883,7 @@ Macro F1 Score: 0.40196078431372545
 Accuracy score: 0.6721311475409836 
 
 ====================================================================================================
-The Average F1-Score of the Language  French  for the sample size  128 is: 0.4019607843137255
+The Average F1-Score of the Language  French  for the sample size  128 is: 0.4065285520148653 
 ========================================================================================================================================================================================================
 t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
@@ -970,13 +970,13 @@ Macro F1 Score: 0.40196078431372545
 Accuracy score: 0.6721311475409836 
 
 ====================================================================================================
-The Average F1-Score of the Language  French  for the sample size  256 is: 0.4019607843137255
+The Average F1-Score of the Language  French  for the sample size  256 is: 0.4348942321008883 
 ========================================================================================================================================================================================================
 t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: French
-Sample Size: 1067
+Sample Size: 854
 Seed value: 2018
 Train loss: 0.6314995351122387
 Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.20s/it]Validation Accuracy: 0.6680555555555555
@@ -993,7 +993,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: French
-Sample Size: 1067
+Sample Size: 854
 Seed value: 2019
 Train loss: 0.6434728467642371
 Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.16s/it]Validation Accuracy: 0.6631944444444444
@@ -1010,7 +1010,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: French
-Sample Size: 1067
+Sample Size: 854
 Seed value: 2020
 Train loss: 0.642752572671691
 Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.25s/it]Validation Accuracy: 0.6729166666666667
@@ -1027,7 +1027,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: French
-Sample Size: 1067
+Sample Size: 854
 Seed value: 2021
 Train loss: 0.6484330069662919
 Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.27s/it]Validation Accuracy: 0.6826388888888889
@@ -1044,7 +1044,7 @@ t_total value of -1 results in schedule not being applied
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: French
-Sample Size: 1067
+Sample Size: 854
 Seed value: 2022
 Train loss: 0.649295850921033
 Epoch:  33%|███▎      | 1/3 [00:16<00:32, 16.21s/it]Validation Accuracy: 0.6826388888888889
@@ -1057,7 +1057,7 @@ Macro F1 Score: 0.40196078431372545
 Accuracy score: 0.6721311475409836 
 
 ====================================================================================================
-The Average F1-Score of the Language  French  for the sample size  1067 is: 0.4415787144513586
+The Average F1-Score of the Language  French  for the sample size  854 is: 0.5285378393334661 
 ========================================================================================================================================================================================================
 The Average F1-Score of the Language French for the sample size 16 is : 0.4201313506375065 
 
@@ -1069,7 +1069,7 @@ The Average F1-Score of the Language French for the sample size 128 is : 0.40652
 
 The Average F1-Score of the Language French for the sample size 256 is : 0.4348942321008883 
 
-The Average F1-Score of the Language French for the sample size 1067 is : 0.5285378393334661 
+The Average F1-Score of the Language French for the sample size 854 is : 0.5285378393334661 
 
 =======================================================================================================English=================================================================================================
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
@@ -1513,95 +1513,119 @@ The Average F1-Score of the Language  English  for the sample size  256 is: 0.44
 ========================================================================================================================================================================================================
 t_total value of -1 results in schedule not being applied
 Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: English
-Sample Size: 92247
+Sample Size: 73798
 Seed value: 2018
-Train loss: 0.4621616079757249
-Epoch:  33%|███▎      | 1/3 [23:17<46:34, 1397.35s/it]Validation Accuracy: 0.827442354368932
-Train loss: 0.44153438023046987
-Epoch:  67%|██████▋   | 2/3 [46:33<23:17, 1397.09s/it]Validation Accuracy: 0.8202021734333628
-Train loss: 0.4460624627771578
-Epoch: 100%|██████████| 3/3 [1:09:48<00:00, 1396.24s/it]Validation Accuracy: 0.8069009267431597
+Train loss: 0.35716144403181493
 
-Macro F1 Score: 0.4465907301453992
-Accuracy score: 0.80698093521768 
+Epoch:  33%|███▎      | 1/3 [17:44<35:28, 1064.12s/it]Validation Accuracy: 0.8505988510730544
+Train loss: 0.3062542373600781
+
+Epoch:  67%|██████▋   | 2/3 [35:25<17:43, 1063.28s/it]Validation Accuracy: 0.8679682419249946
+Train loss: 0.2918137765733605
+
+Epoch: 100%|██████████| 3/3 [53:03<00:00, 1061.18s/it]Validation Accuracy: 0.8622778018642966
+Language: English
+The Best Seed for the sample  73798  is :  2018
+
+Macro F1 Score: 0.7814924913837606
+Accuracy score: 0.8646495304941667 
 
 ====================================================================================================
 t_total value of -1 results in schedule not being applied
 Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: English
-Sample Size: 92247
+Sample Size: 73798
 Seed value: 2019
-Train loss: 0.43749778108762405
-Epoch:  33%|███▎      | 1/3 [23:11<46:22, 1391.48s/it]Validation Accuracy: 0.8191402802294793
-Train loss: 0.4834461185488071
-Epoch:  67%|██████▋   | 2/3 [46:20<23:10, 1390.81s/it]Validation Accuracy: 0.8258495145631068
-Train loss: 0.4719561161515389
-Epoch: 100%|██████████| 3/3 [1:09:30<00:00, 1390.08s/it]Validation Accuracy: 0.8363167475728155
+Train loss: 0.41315788629432704
 
-Macro F1 Score: 0.6762370852033299
-Accuracy score: 0.8356729583609979 
+Epoch:  33%|███▎      | 1/3 [17:44<35:28, 1064.20s/it]Validation Accuracy: 0.8269022328202905
+Train loss: 0.3976682168741483
+
+Epoch:  67%|██████▋   | 2/3 [35:26<17:43, 1063.77s/it]Validation Accuracy: 0.8395973336223717
+Train loss: 0.3904986311595765
+
+Epoch: 100%|██████████| 3/3 [53:08<00:00, 1062.78s/it]Validation Accuracy: 0.8552595924561024
+
+Macro F1 Score: 0.7490261435391137
+Accuracy score: 0.856492459451769 
 
 ====================================================================================================
 t_total value of -1 results in schedule not being applied
 Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: English
-Sample Size: 92247
+Sample Size: 73798
 Seed value: 2020
-Train loss: 0.3441592636710389
-Epoch:  33%|███▎      | 1/3 [23:11<46:23, 1391.97s/it]Validation Accuracy: 0.8605954876434246
-Train loss: 0.29897861119955416
-Epoch:  67%|██████▋   | 2/3 [46:19<23:10, 1390.49s/it]Validation Accuracy: 0.8639673433362753
-Train loss: 0.28014618978343653
-Epoch: 100%|██████████| 3/3 [1:09:27<00:00, 1389.33s/it]Validation Accuracy: 0.8654843336275375
+Train loss: 0.3563100398507445
 
-Macro F1 Score: 0.7986555259115466
-Accuracy score: 0.8903537892440482 
+Epoch:  33%|███▎      | 1/3 [17:40<35:20, 1060.37s/it]Validation Accuracy: 0.8487833297203556
+Train loss: 0.29820615490169666
+
+Epoch:  67%|██████▋   | 2/3 [35:19<17:40, 1060.05s/it]Validation Accuracy: 0.8559912204639064
+Train loss: 0.27400421796202235
+
+Epoch: 100%|██████████| 3/3 [53:00<00:00, 1060.20s/it]Validation Accuracy: 0.8575222198135704
+
+Macro F1 Score: 0.7872227414570989
+Accuracy score: 0.8614246419425211 
 
 ====================================================================================================
 t_total value of -1 results in schedule not being applied
 Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: English
-Sample Size: 92247
+Sample Size: 73798
 Seed value: 2021
-Train loss: 0.47905288315970906
-Epoch:  33%|███▎      | 1/3 [23:00<46:01, 1380.65s/it]Validation Accuracy: 0.8069354037952339
-Train loss: 0.490492340803994
-Epoch:  67%|██████▋   | 2/3 [46:00<23:00, 1380.47s/it]Validation Accuracy: 0.8070388349514563
-Train loss: 0.4901451638257218
-Epoch: 100%|██████████| 3/3 [1:08:58<00:00, 1379.43s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.3607999968384678
 
-Macro F1 Score: 0.4465907301453992
-Accuracy score: 0.80698093521768 
+Epoch:  33%|███▎      | 1/3 [17:39<35:18, 1059.50s/it]Validation Accuracy: 0.8547582917840885
+Train loss: 0.3103425159067991
+
+Epoch:  67%|██████▋   | 2/3 [35:19<17:39, 1059.58s/it]Validation Accuracy: 0.8579015824842836
+Train loss: 0.2962554546265683
+
+Epoch: 100%|██████████| 3/3 [53:01<00:00, 1060.35s/it]Validation Accuracy: 0.8690927812703231
+Language: English
+The Best Seed for the sample  73798  is :  2021
+
+Macro F1 Score: 0.7639673874973373
+Accuracy score: 0.8668310727496917 
 
 ====================================================================================================
 t_total value of -1 results in schedule not being applied
 Token indices sequence length is longer than the specified maximum  sequence length for this BERT model (552 > 512). Running this sequence through BERT will result in indexing errors
+
 Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
 Model Summary:
 Language: English
-Sample Size: 92247
+Sample Size: 73798
 Seed value: 2022
-Train loss: 0.49252669572018726
-Epoch:  33%|███▎      | 1/3 [23:03<46:06, 1383.13s/it]Validation Accuracy: 0.8069354037952339
-Train loss: 0.49225411624326254
-Epoch:  67%|██████▋   | 2/3 [46:00<23:01, 1381.48s/it]Validation Accuracy: 0.8069009267431597
-Train loss: 0.49193255676708
-Epoch: 100%|██████████| 3/3 [1:08:51<00:00, 1377.17s/it]Validation Accuracy: 0.8069698808473081
+Train loss: 0.38241203089720927
 
-Macro F1 Score: 0.4465907301453992
-Accuracy score: 0.80698093521768 
+Epoch:  33%|███▎      | 1/3 [17:42<35:25, 1062.93s/it]Validation Accuracy: 0.8461413396921743
+Train loss: 0.3874208906771639
+
+Epoch:  67%|██████▋   | 2/3 [35:24<17:42, 1062.64s/it]Validation Accuracy: 0.854582159115543
+Train loss: 0.37307838160676265
+
+Epoch: 100%|██████████| 3/3 [53:04<00:00, 1061.65s/it]Validation Accuracy: 0.8226208541079558
+
+Macro F1 Score: 0.7443128113333295
+Accuracy score: 0.8237219007872522 
 
 ====================================================================================================
-The Average F1-Score of the Language  English  for the sample size  92247 is: 0.5629329603102148
+The Average F1-Score of the Language  English  for the sample size  73797 is: 0.765204315042128
 ========================================================================================================================================================================================================
 
 The Average F1-Score of the Language English for the sample size 16 is : 0.4465907301453992 
@@ -1614,6 +1638,6 @@ The Average F1-Score of the Language English for the sample size 128 is : 0.4854
 
 The Average F1-Score of the Language English for the sample size 256 is : 0.4465907301453992 
 
-The Average F1-Score of the Language English for the sample size 92247 is : 0.5629329603102148 
+The Average F1-Score of the Language English for the sample size 73797 is : 0.765204315042128
 
 
